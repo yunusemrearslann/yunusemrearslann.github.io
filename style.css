@@ -52,16 +52,16 @@ body {
   width: 30vmin;
 }
 .container .box:nth-child(1) {
-  background-color: #f69;
+  background-color: #f35b3b;
 }
 .container .box:nth-child(2) {
-  background-color: #ee0;
+  background-color: #abccf2;
 }
 .container .box:nth-child(3) {
-  background-color: #6c3;
+  background-color: #d2abf2;
 }
 .container .box:nth-child(4) {
-  background-color: #6cf;
+  background-color: #DAF7A6;
 }
 
 /* fill styles */
