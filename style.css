@@ -3,17 +3,6 @@ canvas {
   width: 100vw;
   height: 100vh;
 }
-
-body {
-  align-items: center;
-  background-color: #ccc;
-  background-image: radial-gradient(#fff, #ccc);
-  display: flex;
-  font-family: sans-serif;
-  height: 100vh;
-  justify-content: center;
-  margin: 0;
-}
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -64,4 +53,14 @@ body {
     border-radius: 50%;
     transform: scale(2);
   }
+}
+body {
+  align-items: center;
+  background-color: #ccc;
+  background-image: radial-gradient(#fff, #ccc);
+  display: flex;
+  font-family: sans-serif;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
 }
